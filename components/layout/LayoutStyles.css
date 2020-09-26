@@ -1,0 +1,27 @@
+.footer_style{
+
+    background-color:lightgray;
+    width: 1520px;
+    height: 100px;
+    position: relative;
+    padding: top 10%;
+    align-content: stretch;
+
+  }
+.header_style{
+
+  text-align: left;
+  padding: 8px;
+  background-color:  #678d4c;
+
+
+}
+
+.heading_style{
+
+  font-size: 80px;
+  color: #f1f1f1;
+  font-style: italic;
+  text-decoration: black;
+ 
+}
